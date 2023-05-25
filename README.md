@@ -2,6 +2,16 @@
 
 Electoral-Geography is a repository for analyzing electoral data, focusing on vote distribution across municipalities. It calculates the Gini concentration index and dominance metrics to study vote patterns and candidate performance within each municipality, offering valuable insights for researchers and political analysts.
 
+## Authors and Acknowledgement
+
+This code was developed in 2023 as part of the research required for a graduate degree in Political Science at the University of Brasília, under the guidance of Assistant Professor Arnaldo Mauerberg Jr., PhD.
+
+**Developer/Researcher:**
+- Victor Figueredo ([150047479@aluno.unb.br](mailto:150047479@aluno.unb.br))
+
+**Supervisor:**
+- Arnaldo Mauerberg Jr., PhD ([arnaldo.mauerberg@unb.br](mailto:arnaldo.mauerberg@unb.br))
+
 ## Obtaining CSV Data from TSE Website
 
 To obtain the necessary CSV data from the Tribunal Superior Eleitoral (TSE) website, follow the steps below:
