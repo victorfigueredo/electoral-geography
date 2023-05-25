@@ -27,6 +27,53 @@ To obtain the necessary CSV data from the Tribunal Superior Eleitoral (TSE) webs
 4. Once the results are displayed, click on the "Exportar Dados" button and choose "CSV" as the format.
 5. Download the generated CSV file and save it to your local machine.
 
+
+# Installation
+
+Follow these steps to set up the project:
+
+1. Clone the repository:
+
+    ```
+    git clone https://github.com/victorfigueredo/electoral-geography.git
+    cd electoral-geography
+    ```
+
+2. Create a virtual environment (optional but recommended):
+
+    For Unix or MacOS, run:
+
+    ```
+    python3 -m venv env
+    ```
+
+    For Windows, run:
+
+    ```
+    py -m venv env
+    ```
+
+3. Activate the virtual environment:
+
+    For Unix or MacOS, run:
+
+    ```
+    source env/bin/activate
+    ```
+
+    For Windows, run:
+
+    ```
+    .\env\Scripts\activate
+    ```
+
+4. Install the required dependencies:
+
+    ```
+    pip install -r requirements.txt
+    ```
+
+
 ## Usage
 
 After obtaining the CSV data, execute the following command:
