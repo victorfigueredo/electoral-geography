@@ -9,6 +9,8 @@ dist/
 myenv/
 __pycache__/
 results/
+data/
+output
 
 # Compiled Java class files
 *.class
